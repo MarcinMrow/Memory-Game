@@ -1,7 +1,7 @@
 # FEND Memory Game Project
 
 - It is a real-life and complete browser-based card matching game. 
-- Created for [**Front-End Web Developer Nanodegree Program**] (https://eu.udacity.com/)
+- Created for [**Front-End Web Developer Nanodegree Program**](https://eu.udacity.com/)
 
 ## How The Game Works
 
@@ -35,7 +35,7 @@ Each turn:
 
 ## Play the Memory Game
 
-[Click here to play a game.] ()
+[Click here to play a game.]()
 
 ## Interface design
 
@@ -44,10 +44,10 @@ Application components are usable across desktop, tablet and phone browsers.
 ## Dependencies
 
 1. Memory Game has been created as the Udacity Project and based on the **starters code**.
-2. **JavaScript**: [JS Tutorial] (https://www.w3schools.com/js/default.asp).
-3. **CSS**: [CSS Almanac] (https://css-tricks.com/almanac/).
-4. **GIT**: [Writing on GitHub] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links).
-5. **Style Guidelines**: [Udacity Frontend Nanodegree Style Guide] (http://udacity.github.io/frontend-nanodegree-styleguide/index.html).
+2. **JavaScript**: [JS Tutorial](https://www.w3schools.com/js/default.asp).
+3. **CSS**: [CSS Almanac](https://css-tricks.com/almanac/).
+4. **GIT**: [Writing on GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links).
+5. **Style Guidelines**: [Udacity Frontend Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html).
 
 ## Table of Contents
 
