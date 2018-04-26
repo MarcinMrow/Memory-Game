@@ -25,13 +25,13 @@ Each turn:
 
 ## Game Functionality
 
-1. **Shuffle Cards** - when game is loaded and/or restarted.
-2. **Matching & Unmatching Cards** - game recognizes when cards match or do not match.
-3. **Congratulations Popup** - when a user wins the game, a success modal appears to congratulate the player, shows statistics and ask if they want to play again.
-4. **Restart Button** -  allows the player to reset the game board, the timer, and the star rating.
-5. **Star Rating** - the game displays a star rating (from 1-3) that reflects the player's performance.
-6. **Timer** - when the player starts a game, a displayed timer should also start; once the player wins the game, the timer stops.
-7. **Moves Counter** - game displays the current number of moves a user has made.
+- **Shuffle Cards** - when game is loaded and/or restarted.
+- **Matching & Unmatching Cards** - game recognizes when cards match or do not match.
+- **Congratulations Popup** - when a user wins the game, a success modal appears to congratulate the player, shows statistics and ask if they want to play again.
+- **Restart Button** -  allows the player to reset the game board, the timer, and the star rating.
+- **Star Rating** - the game displays a star rating (from 1-3) that reflects the player's performance.
+- **Timer** - when the player starts a game, a displayed timer should also start; once the player wins the game, the timer stops.
+- **Moves Counter** - game displays the current number of moves a user has made.
 
 ## Play the Memory Game
 
