@@ -35,7 +35,7 @@ Each turn:
 
 ## Play the Memory Game
 
-[Click here to play a game.]()
+[Click here to play a game.](https://marcinmrow.github.io/Memory-Game/)
 
 ## Interface design
 
