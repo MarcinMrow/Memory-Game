@@ -159,6 +159,7 @@ h1 {
 	padding: 20px;
 	border: 1px solid #888;
 	width: 80%;
+  border-radius: 10px;
 }
 
 .close {
@@ -183,16 +184,25 @@ h1 {
 .play-again {
     background-color: #2e3d49;
     padding: 1em 1em;
-    font-size: 1.5em;
+    font-size: 1em;
     display: block;
     margin: 10px auto;
-    width: 50%;
+    /*width: 50%;*/
     color: #ffffff;
     border-radius: 5px;
+    cursor: pointer;
 }
 
-h2, h3 {
+h2 {
 	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+}
+
+h3 {
+  display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -294,7 +304,23 @@ h1 {
 }
 	
 }
- 
+
+@media screen and (max-width: 350px) {
+
+h2 {
+  display: none;
+}
+
+}
+
+@media screen and (max-width: 450px) {
+
+h2 {
+  display: none;
+}
+
+}
+
 @media screen and (min-width: 281px) and (max-width: 450px) {
 
 .deck {
@@ -325,6 +351,10 @@ h1 {
 	font-size: 22px;
 	margin: 0;
 	padding: 10px 0;
+}
+
+h2 {
+  font-size: 25px;
 }
 	
 }
@@ -362,6 +392,10 @@ h1 {
 h1 {
 	margin: 0;
 	padding: 10px 0;
+}
+
+h2 {
+  font-size: 25px;
 }
 	
 }
